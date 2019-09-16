@@ -23,14 +23,16 @@ Fork/Clone this repo to your system, navigate to the repo folder then launch you
 ```
 
 Use techy_blinders as your login credentials (both username & password)
-
+```
+```
 ## Built With
 
 * HTML
 * CSS
 * PHP
 * [Bootstrap](https://getbootstrap.com/)
-
+```
+```
 ## Techy Blinders Team (Slack usernames)
 * coded_coder
 * devChris
@@ -42,3 +44,4 @@ Use techy_blinders as your login credentials (both username & password)
 * tomisinAjayi
 * Sadiq A
 * Muideen MURITALA
+```
