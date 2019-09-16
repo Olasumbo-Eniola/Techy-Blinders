@@ -30,7 +30,7 @@ Use techy_blinders as your login credentials (both username & password)
 * HTML
 * CSS
 * PHP
-* [Bootstrap](https://getbootstrap.com/)
+* Bootstrap
 ```
 ```
 ## Techy Blinders Team (Slack usernames)
