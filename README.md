@@ -30,6 +30,7 @@ Use techy_blinders as your login credentials (both username & password)
 * HTML
 * CSS
 * PHP
+*jQuery
 * Bootstrap
 ```
 ```
