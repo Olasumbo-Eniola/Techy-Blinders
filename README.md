@@ -44,4 +44,6 @@ Use techy_blinders as your login credentials (both username & password)
 * tomisinAjayi
 * Sadiq A
 * Muideen MURITALA
-```
+
+LINK TO OUR LUCID POST
+https://lucid.blog/dadsclement/post/team-techy-blinders-b4e
