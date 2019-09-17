@@ -88,6 +88,14 @@ color: white;
 margin-left: 4px;
 }
 
+a {
+  color: #00ffe9
+}
+
+a:hover {
+  color: #ffc312;
+}
+
 .alert {
   font-size: 14px;
 }
