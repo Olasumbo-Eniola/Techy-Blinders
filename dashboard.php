@@ -62,7 +62,7 @@
            </div>
            <h2>Welcome, <?php echo ucfirst($_SESSION['username'])?></h2>
            <div id="two">
-              <h2>WELCOME TO TECHY BLINDER!</h2>
+              <h2>WELCOME TO TECHY BLINDERS!</h2>
            </div>
            <div>
             <a href="script/logout.php" class="button">
