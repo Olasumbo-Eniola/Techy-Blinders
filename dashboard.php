@@ -25,7 +25,7 @@
 <div class="container">
 	<div class="d-flex justify-content-center h-100">
 		<div class="card" style="color: #fff">
-      <h3>Welcome, <?php echo $_SESSION['username']?></h3>
+      <h3>Welcome, <?php echo ucfirst($_SESSION['username'])?></h3>
       <p>This is Techy-Blinders welcome page. Feel free to walk around. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima maiores saepe nisi suscipit dolore est praesentium quam eligendi beatae impedit natus blanditiis voluptatibus quas iusto aut, ea cupiditate pariatur corrupti?</p>
 			<a href="script/logout.php">
 				<button class="btn btn-danger">Logout</button>
