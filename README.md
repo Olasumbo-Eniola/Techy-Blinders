@@ -47,9 +47,6 @@ Use techy_blinders as your login credentials (both username & password)
 
 LINK TO OUR LUCID POST
 https://lucid.blog/dadsclement/post/team-techy-blinders-b4e
-LINK TO OUR PROJECT URL
 
-https://www.devchris.com.ng/techyblinders/
-
-
-
+Login Link
+https://www.devchris.com.ng/techyblinders
