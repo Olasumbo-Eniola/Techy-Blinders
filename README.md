@@ -51,5 +51,5 @@ LINK TO OUR PROJECT URL
 
 https://www.devchris.com.ng/techyblinders/
 
-LINK TO GITHUB REPO 
-https://github.com/Olasumbo-Eniola/Techy-Blinders
+
+
